@@ -17,4 +17,4 @@
 
 | Question Name | File Link | Difficulty |
 | --- | --- | --- |
-| Partition Array according to given pivot [2161_Partition_Array_According_to_Given_Pivot.cpp](DSA/Patterns/2161_Partition_Array_According_to_Given_Pivot.cpp) | Medium |
+| Partition Array according to given pivot |[2161_Partition_Array_According_to_Given_Pivot.cpp](DSA/Patterns/2161_Partition_Array_According_to_Given_Pivot.cpp) | Medium |
