@@ -11,3 +11,10 @@
 | Reverse Star Triangle | [p-5.cpp](DSA/Patterns/p-5.cpp) | Easy |
 | Reverse Number Triangle | [p-6.cpp](DSA/Patterns/p-6.cpp) | Easy |
 | Pyramid Star Pattern | [p-7.cpp](DSA/Patterns/p-7.cpp) | Easy |
+
+
+## Two Pointers
+
+| Question Name | File Link | Difficulty |
+| --- | --- | --- |
+| Partition Array according to given pivot [2161_Partition_Array_According_to_Given_Pivot.cpp](DSA/Patterns/2161_Partition_Array_According_to_Given_Pivot.cpp) | Medium |
