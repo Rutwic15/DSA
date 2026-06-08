@@ -1,0 +1,13 @@
+# DSA
+
+## Patterns
+
+| Question Name | File Link | Difficulty |
+| --- | --- | --- |
+| Square Star Pattern | [p-1.cpp](DSA/Patterns/p-1.cpp) | Easy |
+| Right Triangle Star Pattern | [p-2.cpp](DSA/Patterns/p-2.cpp) | Easy |
+| Number Triangle Pattern | [p-3.cpp](DSA/Patterns/p-3.cpp) | Easy |
+| Repeated Number Triangle | [p-4.cpp](DSA/Patterns/p-4.cpp) | Easy |
+| Reverse Star Triangle | [p-5.cpp](DSA/Patterns/p-5.cpp) | Easy |
+| Reverse Number Triangle | [p-6.cpp](DSA/Patterns/p-6.cpp) | Easy |
+| Pyramid Star Pattern | [p-7.cpp](DSA/Patterns/p-7.cpp) | Easy |
