@@ -18,4 +18,9 @@
 | Question Name | File Link | Difficulty |
 | --- | --- | --- |
 | Partition Array according to given pivot |[2161_Partition_Array_According_to_Given_Pivot.cpp](DSA/POTDs/2161_Partition_Array_According_to_Given_Pivot.cpp) | Medium |
+
+## Greedy
+
+| Question Name | File Link | Difficulty |
+| --- | --- | --- |
 | Maximum Total Subarray Value I|[3689_Maximum_Total_Subarray_Value_I.cpp](DSA/POTDs/3689_Maximum_Total_Subarray_Value_I.cpp) | Medium |
